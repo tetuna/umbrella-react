@@ -1,3 +1,13 @@
+# Umbrella Middle Web Developer test assignment.
+<br/>
+Task description link: 
+<a href="https://gtd.ge/github-data/umbrella/docs/description.pdf" target="_blank">Click here for PDF file!</a>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
