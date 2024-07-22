@@ -7,10 +7,6 @@ Task description link:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 # React + TypeScript + Vite
 
